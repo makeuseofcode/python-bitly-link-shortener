@@ -10,4 +10,3 @@ When you run the script, enter the long URL you want to shorten as a command lin
 ## Example
 
 ![alt text](preview.PNG)
-![alt text](URL-in-browser-with-webpage.jpg)
