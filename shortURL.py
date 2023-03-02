@@ -18,7 +18,7 @@ else:
 print('Generating shortened URL...')
  
 # Enter your Bitly access token here
-access_token = '9a3902a9950af14e707fd278291920f5b446d7eb'
+access_token = ''
 
 
 
